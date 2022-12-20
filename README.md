@@ -1,6 +1,7 @@
 # DrizzlyOwl
-Full Stack Dev and SysAdmin
+Operations Engineer at [@dxw](https://github.com/dxw). Bracket wrangler since 2013.
 
-- [twitter.com/drizzlyowl](https://twitter.com/DrizzlyOwl)
-- [keybase.io/drizzlyowl](https://keybase.io/drizzlyowl)
-- [ashdavies.online](http://ashdavies.online/)
+![Twitter Follow](https://img.shields.io/twitter/follow/drizzlyowl?style=social)
+
+[🌐 ashdavies.online](http://ashdavies.online/)
+[🔑 keybase.io](https://keybase.io/drizzlyowl)
